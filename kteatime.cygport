@@ -1,0 +1,8 @@
+inherit kde4
+
+NAME="kteatime"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="KDE tea timer system tray applet"
+DESCRIPTION="Part of the KDE desktop amusements suite"
