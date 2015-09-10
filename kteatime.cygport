@@ -1,10 +1,8 @@
-inherit kde4
+inherit kf5
 
 NAME="kteatime"
-VERSION=14.12.3
+VERSION=15.04.3
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE tea timer system tray applet"
 DESCRIPTION="Part of the KDE desktop amusements suite"
-
-REQUIRES="kde-runtime"
